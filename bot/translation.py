@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Pro Auto Filter Bot....😉
+    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+<i>ഈ ബോട്ട് മൂവി നൈറ്റ് ഗ്രൂപ്പിലേക്ക് ഉള്ളത് എന്ന് ഇനി വീണ്ടും വീണ്ടും പറയണോ??
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+അപ്പോ പിന്നെ എന്തിനാ വീണ്ടും വീണ്ടും സ്റ്റാർട്ട് കുത്തി കളിക്കാൻ വരുന്നേ...
 
-For More Details Click Help Button Below..
-<b><i><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></i></b>
+ആ സൈഡിലോട്ട് എങ്ങാനും മാറി ഇരിക്ക്‌ ഇനി🤭🤭
+<b><i><a href="https://t.me/MovieNight120">𝑴𝑶𝑽𝑰𝑬 𝑵𝑰𝑮𝑯𝑻</a></i></b>
 </i>"""    
     
     HELP_TEXT = """
@@ -43,12 +43,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><i><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></i></b>
+<b><i><a href="https://t.me/MovieNight120">𝑴𝑶𝑽𝑰𝑬 𝑵𝑰𝑮𝑯𝑻</a></i></b>
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Pro Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/MRk_YT">MRK_YT</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/MovieNight120">𝑴𝑶𝑽𝑰𝑬 𝑵𝑰𝑮𝑯𝑻</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
