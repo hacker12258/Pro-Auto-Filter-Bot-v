@@ -89,11 +89,11 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/MRK_YT'),
-        InlineKeyboardButton('Source Code🧾', url ='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMRK-YT%2FUnlimited-Filter-Bot%2Fblob%2Fmain%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FMRK-YT%2FPro-Auto-Filter-Bot.git')
+        InlineKeyboardButton('♻️𝗚𝗿𝗼𝘂𝗽', url='https://t.me/MovieNight120'),
+        InlineKeyboardButton('𝑴𝑶𝑽𝑰𝑬 𝑵𝑰𝑮𝑯𝑻', url ='https://t.me/joinchat/HKLQU33m1l00NTI9')
     ],[
-        InlineKeyboardButton('Support🛠', url='https://t.me/Mo_TECH_YT'),
-        InlineKeyboardButton('Tutorial Video', url='https://t.me/Mo_Tech_YT/26')
+        InlineKeyboardButton('𝘾𝙝𝙖𝙣𝙣𝙚𝙡', url='https://t.me/MovieNight124'),
+        InlineKeyboardButton('𝘾𝙝𝙖𝙣𝙣𝙚𝙡', url='https://t.me/MovieNight234')
     ],[
         InlineKeyboardButton('⚙Help⚙', callback_data="help")
     ]]
@@ -113,8 +113,8 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
-        InlineKeyboardButton('About 🚩', callback_data='about')
+        InlineKeyboardButton('Home 🏠', callback_data='start'),
+        InlineKeyboardButton('About 🤠', callback_data='about')
     ],[
         InlineKeyboardButton('Close 🔐', callback_data='close')
     ]]
@@ -134,7 +134,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
+        InlineKeyboardButton('Home 🏠', callback_data='start'),
         InlineKeyboardButton('Close 🔐', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
